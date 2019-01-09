@@ -1,0 +1,2 @@
+# GAN-MRF
+GAN for MRF
